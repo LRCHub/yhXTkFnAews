@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Empty Out Your Pockets",
+  "base_artist": "Juice WRLD",
+  "createdAt": "2025-12-09T10:25:45.293770Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Empty out Your Pockets",
+      "artist": "Charlie Parr",
+      "has_synced": false,
+      "path": "select/01_Empty_out_Your_Pockets_Charlie_Parr.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Empty Out Your Pockets",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/02_Empty_Out_Your_Pockets_Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Empty Out Your Pockets",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/03_Empty_Out_Your_Pockets_Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Empty Out Your Pockets",
+      "artist": "Song",
+      "has_synced": true,
+      "path": "select/04_Empty_Out_Your_Pockets_Song.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Empty Out Your Pockets",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/05_Empty_Out_Your_Pockets_Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Empty Out Your Pockets",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/06_Empty_Out_Your_Pockets_Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Empty Out Your Pockets",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/07_Empty_Out_Your_Pockets_Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Empty Out Your Pockets",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/08_Empty_Out_Your_Pockets_Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Empty Out Your Pockets",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/09_Empty_Out_Your_Pockets_Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Empty Out Your Pockets",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/10_Empty_Out_Your_Pockets_Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Empty Out Your Pockets",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/11_Empty_Out_Your_Pockets_Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Empty Out Your Pockets",
+      "artist": "Juice WRLD - Topic",
+      "has_synced": true,
+      "path": "select/12_Empty_Out_Your_Pockets_Juice_WRLD_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Empty Out Your Pockets",
+      "artist": "Juice WRLD",
+      "has_synced": true,
+      "path": "select/13_Empty_Out_Your_Pockets_Juice_WRLD.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Empty Out Your Pockets",
+      "artist": "Juice WRLD",
+      "has_synced": false,
+      "path": "select/pl_01_Empty_Out_Your_Pockets_Juice_WRLD.txt"
+    }
+  ]
+}
